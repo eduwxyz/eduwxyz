@@ -2,7 +2,7 @@
 
     
 <div align="center">
-<b>Data Engineer | Analytics Engineer | 🐍🐧</b>
+<b>Data Engineer | Analytics Engineer | DataOps Engineer 🐍🐧</b>
 <br>
 <br>
 
